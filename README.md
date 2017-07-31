@@ -1,5 +1,4 @@
 # Pydealista
 
-A Python API library/wrapper for Idealista
-
+A Python API library/wrapper for idealista.com
 
